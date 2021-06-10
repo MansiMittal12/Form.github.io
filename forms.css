@@ -50,11 +50,11 @@
 		/* Styling Button */
 		button {
 			background-color: #grey;
-			border: 1px solid #777;
+			border: 1px black;
 			border-radius: 5px;
 			font-size: 25px;
 			display: block;
-			width: 100%;
-			margin-top: 50px;
+			width: 50%;
+			margin-top: 20px;
 			margin-bottom: 20px;
 		}
